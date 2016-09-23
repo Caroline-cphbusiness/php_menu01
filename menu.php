@@ -1,4 +1,4 @@
-<?php
+<?php // curpage indikerer, hvilken side man befinder sig på
     $curpage = basename ($_SERVER['PHP_SELF']);
 ?> 
 
