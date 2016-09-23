@@ -7,7 +7,9 @@
 </head>
 
 <body>
-<?php include 'menu.php'; ?>
+<?php 
+    //i stedet for at skrive menuen flere gange på flere sider, henter man menu.php via include
+    include 'menu.php'; ?>
     
     <h1>About</h1>
     
